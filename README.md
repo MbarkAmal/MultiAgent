@@ -120,22 +120,6 @@ Copy `.env.example` to `.env` and fill in your values:
 copy .env.example .env
 ```
 
-Edit `.env`:
-
-```env
-# Use "ollama" when running locally with Ollama
-OPENAI_API_KEY=ollama
-
-# The Ollama model you have downloaded (e.g., llama3.2, mistral, phi3)
-OLLAMA_MODEL=llama3.2
-
-# Ollama local server address
-OLLAMA_BASE_URL=http://localhost:11434/v1
-
-# Google Sheets config
-GOOGLE_SHEET_NAME=CustomerSupportEscalations
-GOOGLE_CREDENTIALS_FILE=credentials.json
-```
 
 ### 3. Set Up Google Sheets Integration
 
