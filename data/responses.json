@@ -1,0 +1,120 @@
+[
+  {
+    "ticket_id": 1,
+    "subject": "Refund Request - Wrong Size",
+    "classification": {
+      "category": "refund",
+      "priority": "P2",
+      "escalate": false
+    },
+    "timestamp": "2026-05-08 21:25:25",
+    "status": "Responded",
+    "response": "Dear [Customer],\n\nI'm so sorry to hear that you received the wrong size for your order! I've checked on your order #12345 and confirmed that it was indeed shipped in the incorrect size. I'd be happy to assist with a full refund, which will be processed immediately. You can expect the credit to appear on your original payment method within 3-5 business days.\n\nBest regards,\n[Your Name]\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 2,
+    "subject": "Technical Issue - Login Loop",
+    "classification": {
+      "category": "technical_bug",
+      "priority": "P2",
+      "escalate": false
+    },
+    "timestamp": "2026-05-08 21:27:10",
+    "status": "Responded",
+    "response": "Dear [Customer],\n\nI'm so sorry to hear that you're experiencing a login loop issue with your account! I'd like to help resolve this for you ASAP. Can you please try restarting your browser (Chrome) and then refreshing the page manually? If the issue persists, could you also tell me if there are any recent changes or updates that might be triggering this behavior?\n\nBest regards,\n[Your Name]\nCustomer Support Agent"
+  },
+  {
+    "ticket_id": 3,
+    "subject": "Simple Question - Shipping Policy",
+    "classification": {
+      "category": "{\"simple_question\": \"Shipping Policy\"}\", "
+    },
+    "timestamp": "2026-05-08 21:28:17",
+    "status": "Responded",
+    "response": "Here is a potential response:\n\nHi there! I'd be happy to help clarify your question. Yes, we do offer international shipping to France. For French orders, our standard shipping rate is €15.99 (approximately $17.50 USD) and deliveries typically take 7-10 business days. Would you like me to provide more details or answer any further questions?"
+  },
+  {
+    "ticket_id": 4,
+    "subject": "SENSITIVE - FRAUD ALREADY REPORTED",
+    "classification": {
+      "category": "sensitive_complaint",
+      "priority": "P1",
+      "escalate": true
+    },
+    "timestamp": "2026-05-08 21:29:19",
+    "status": "Escalated",
+    "escalation_summary": "\"Customer reports unauthorized $500 charge, demanding immediate investigation due to sensitivity surrounding financial issues.\""
+  },
+  {
+    "ticket_id": 5,
+    "subject": "Technical Bug - Checkout Button Grayed Out",
+    "classification": {
+      "category": "technical_bug",
+      "priority": "P2",
+      "escalate": false
+    },
+    "timestamp": "2026-05-08 21:30:11",
+    "status": "Responded",
+    "response": "Dear Valued Customer,\n\nThank you for reaching out to us about your issue with the wireless headphones! I'm happy to help you resolve this problem. Can you please tell me what country or region you're trying to purchase from, as this might be related to our system's geo-targeting? This will help our support team provide more accurate assistance.\n\nBest regards,\n[Your Name]\nCustomer Support Agent"
+  },
+  {
+    "ticket_id": 6,
+    "subject": "Simple Question - Product Availability",
+    "classification": {
+      "category": "simple_question",
+      "priority": "P3",
+      "escalate": false
+    },
+    "timestamp": "2026-05-08 21:31:15",
+    "status": "Responded",
+    "response": "Dear [Customer's Name],\n\nThank you so much for reaching out to us about the availability of our blue ergonomic chair. I apologize for any frustration caused by its extended wait time. Unfortunately, due to high demand and limited production quantities, it may take another 3-4 weeks before we restock them. You'll receive a shipping update via email as soon as they become available again.\n\nBest regards,\n[Your Name]\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 7,
+    "subject": "Refund Request - Damaged Item",
+    "classification": {
+      "category": "refund",
+      "priority": "P2",
+      "escalate": false
+    },
+    "timestamp": "2026-05-08 21:32:23",
+    "status": "Responded",
+    "response": "Dear [Customer's Name],\n\nI'm so sorry to hear that your order arrived damaged. Thank you for reporting this issue, and I've reviewed the attached photos. We take situations like this very seriously and would be happy to process a full refund for you immediately. Please let me know if you have any further questions or concerns.\n\nBest Regards,\n[Your Name]\nCustomer Support Agent"
+  },
+  {
+    "ticket_id": 8,
+    "subject": "SENSITIVE - Legal Action Mentioned",
+    "classification": {
+      "category": "sensitive_complaint",
+      "priority": "P1",
+      "escalate": true
+    },
+    "timestamp": "2026-05-08 21:33:31",
+    "status": "Escalated",
+    "escalation_summary": "Customer threatens to take legal action due to unresolved missing package issue."
+  },
+  {
+    "ticket_id": 9,
+    "subject": "Simple Question - Password Reset",
+    "classification": {
+      "category": "simple_question",
+      "priority": "P3",
+      "escalate": false
+    },
+    "timestamp": "2026-05-08 21:34:23",
+    "status": "Responded",
+    "response": "Here's a potential response:\n\n\"Hi there! Sorry to hear that you're having trouble finding your password reset settings. Could you please try checking your email inbox, as the link to reset your password is typically sent there when you request a change. Alternatively, if you're still having trouble locating it, feel free to reply back and I'll do my best to assist you further.\""
+  },
+  {
+    "ticket_id": 10,
+    "subject": "COMPLEX - Multi-Product Issue and Custom Request",
+    "classification": {
+      "category": "sensitive_complaint",
+      "priority": "P1",
+      "escalate": true
+    },
+    "timestamp": "2026-05-08 21:35:34",
+    "status": "Escalated",
+    "escalation_summary": "Bulk order discrepancies (10 incorrect colour, 5 defective) require custom invoice for regional tax purposes."
+  }
+]

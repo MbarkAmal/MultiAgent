@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "subject": "Refund Request - Wrong Size",
+    "message": "Hi, I ordered a Medium shirt but received a Large. I'd like a refund as the Medium is now out of stock. Order #12345."
+  },
+  {
+    "id": 2,
+    "subject": "Technical Issue - Login Loop",
+    "message": "I can't log into my account. Every time I enter my password, it just refreshes the page without an error message. Using Chrome on MacOS."
+  },
+  {
+    "id": 3,
+    "subject": "Simple Question - Shipping Policy",
+    "message": "Do you offer international shipping to France? If so, how much does it cost?"
+  },
+  {
+    "id": 4,
+    "subject": "SENSITIVE - FRAUD ALREADY REPORTED",
+    "message": "URGENT: I see a charge of $500 on my credit card that I did not authorize. I have already contacted my bank. This is unacceptable and I demand an immediate investigation!"
+  },
+  {
+    "id": 5,
+    "subject": "Technical Bug - Checkout Button Grayed Out",
+    "message": "I'm trying to buy the wireless headphones, but the 'Place Order' button is grayed out and I can't click it. I've filled in all my details."
+  },
+  {
+    "id": 6,
+    "subject": "Simple Question - Product Availability",
+    "message": "When will the blue ergonomic chair be back in stock? I've been waiting for weeks."
+  },
+  {
+    "id": 7,
+    "subject": "Refund Request - Damaged Item",
+    "message": "My order #67890 arrived today but the box was crushed and the product inside is broken. See attached photos."
+  },
+  {
+    "id": 8,
+    "subject": "SENSITIVE - Legal Action Mentioned",
+    "message": "I have been trying to get a response for my missing package for a month. If this is not resolved by Friday, I will be forced to take legal action and post about this on social media."
+  },
+  {
+    "id": 9,
+    "subject": "Simple Question - Password Reset",
+    "message": "How do I change my password? I can't find the settings page."
+  },
+  {
+    "id": 10,
+    "subject": "COMPLEX - Multi-Product Issue and Custom Request",
+    "message": "I received my bulk order of 50 units, but 10 are the wrong color, 5 are defective, and I need a custom invoice for tax purposes in my region. This is a very complicated mess."
+  }
+]
